@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class InventarioComponent implements OnInit {
 
-  constructor() { }
+  constructor(inicio) { }
 
   ngOnInit() {
   }
