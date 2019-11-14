@@ -14,7 +14,9 @@ import { InventarioComponent } from './inventario/inventario.component';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [
+
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
